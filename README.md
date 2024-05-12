@@ -19,5 +19,9 @@ I'm Sayad Uddin Tahsin, a passionate software developer and tech enthusiast. I s
 <a href="mailto:tahsin.ict@outlook.com" title="tahsin.ict@outlook.com"><img src="https://img.shields.io/badge/Contact-Email-Green?style=for-the-badge" height="35" alt="Contact: Email"  /></a>
 
 <div align="center">
-  <img src="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/output/snake.svg" alt="Snake animation" height=60% />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/output/snake-light.svg" />
+  <img alt="github-snake" src="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/output/snake-light.svg" height=60% />
+</picture>
 </div>
