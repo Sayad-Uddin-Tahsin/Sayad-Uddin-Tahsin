@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">👋 Hello there</h1>
 
-<!--
-**Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sayad Uddin Tahsin, a passionate software developer and tech enthusiast. I specialize in Python and love building various software applications.
 
-Here are some ideas to get you started:
+## 🚀 My Streak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Graph](https://github-readme-streak-stats.herokuapp.com?user=Sayad-Uddin-Tahsin&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=EB5454)
+
+![Language Graph](https://github-readme-stats.vercel.app/api/top-langs?username=Sayad-Uddin-Tahsin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true)
+
+## Skilled at
+
+<a href="#skilled-at"><img alt="Skills" src="https://skillicons.dev/icons?i=python,firebase,git,vscode,github,pycharm"></a>
+
+## Links
+
+<a href="https://facebook.com/SayadUddinTahsin" title="Tahsin Tahsin"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="35" alt="Facebook"  /></a>
+<a href="https://instagram/tahsintechie" title="@tahsintechie"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram"  /></a>
+<a href="mailto:tahsin.ict@outlook.com" title="tahsin.ict@outlook.com"><img src="https://img.shields.io/badge/Contact-Email-Green?style=for-the-badge" height="35" alt="Contact: Email"  /></a>
