@@ -10,7 +10,9 @@ I'm Sayad Uddin Tahsin, a passionate software developer and tech enthusiast. I s
 
 ## Skilled at
 
-<a href="#skilled-at"><img alt="Skills" src="https://skillicons.dev/icons?i=python,firebase,git,vscode,github,pycharm"></a>
+<a href="#skilled-at" align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,firebase,git,vscode,github,pycharm&theme=dark"><img alt="Logo" src="https://skillicons.dev/icons?i=python,flask,firebase,git,vscode,github,pycharm&theme=light"></picture>
+</a>
 
 ## Links
 
