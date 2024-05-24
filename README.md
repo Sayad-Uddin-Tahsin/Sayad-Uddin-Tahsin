@@ -22,8 +22,8 @@ I'm Sayad Uddin Tahsin, a passionate software developer and tech enthusiast. I s
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/output/snake-light.svg" />
-  <img alt="github-snake" src="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/output/snake-light.svg" height=60% />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/assets/snake-light.svg" />
+  <img alt="github-snake" src="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/assets/snake-light.svg" height=60% />
 </picture>
 </div>
