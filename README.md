@@ -3,9 +3,7 @@
 I'm Sayad Uddin Tahsin, a passionate software developer and tech enthusiast. I specialize in Python and love building various software applications.
 
 ## My Streak
-![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Sayad-Uddin-Tahsin&theme=aura&border=A192EB5F)]
-
-![GitHub Graph](https://github-readme-streak-stats.herokuapp.com?user=Sayad-Uddin-Tahsin&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=EB5454)
+![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Sayad-Uddin-Tahsin&theme=aura&border=A192EB5F)
 
 ![Language Graph](https://github-readme-stats.vercel.app/api/top-langs?username=Sayad-Uddin-Tahsin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true)
 
