@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       
       # Generate
-      - uses: Sayad-Uddin-Tahsin/GHBall@v1.0
+      - uses: Sayad-Uddin-Tahsin/GHBall@1.0
         with:
           username: ${{ github.repository_owner }}
 
