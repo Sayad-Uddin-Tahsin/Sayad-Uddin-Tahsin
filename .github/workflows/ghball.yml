@@ -12,12 +12,12 @@ jobs:
       - uses: actions/checkout@v4
       
       # Generate Light version (ghball.svg)
-      - uses: Sayad-Uddin-Tahsin/GHBall@1.0
+      - uses: Sayad-Uddin-Tahsin/GHBall@v1.0
         with:
           username: ${{ github.repository_owner }}
 
       # Generate Dark version (ghball-dark.svg)
-      - uses: Sayad-Uddin-Tahsin/GHBall@1.0
+      - uses: Sayad-Uddin-Tahsin/GHBall@v1.0
         with:
           username: ${{ github.repository_owner }}
           theme: dark
