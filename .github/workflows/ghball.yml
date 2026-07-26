@@ -16,8 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      # Generate (Assuming this outputs your files into an output directory, e.g., 'dist')
+
+      # Generate GHBall animation
       - uses: Sayad-Uddin-Tahsin/GHBall@main
         with:
           username: ${{ github.repository_owner }}
@@ -28,5 +28,6 @@ jobs:
         with:
           target_branch: GHBall
           build_dir: output
+          commit_message: "Update GHBall animations"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
