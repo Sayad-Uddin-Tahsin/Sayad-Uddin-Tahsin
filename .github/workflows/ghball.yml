@@ -2,8 +2,11 @@ name: Generate GHBall Animation
 
 on:
   schedule:
-    - cron: '0 */2 * * *'    # Runs every 2 hours
-  workflow_dispatch:      # Allows manual trigger
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -14,22 +17,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # Generate
+      # Generate (Assuming this outputs your files into an output directory, e.g., 'dist')
       - uses: Sayad-Uddin-Tahsin/GHBall@main
         with:
           username: ${{ github.repository_owner }}
 
-      # Commit and push to the "GHBall" branch
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Switch to or create the GHBall branch
-          git checkout -B GHBall
-          
-          git add ghball*.svg
-          git diff --staged --quiet || git commit -m "chore: update GHBall animations [skip ci]"
-          
-          # Push specifically to the GHBall branch on origin
-          git push -u origin GHBall
+      # Push contents to the "GHBall" branch
+      - name: Push to GHBall branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: GHBall
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
