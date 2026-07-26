@@ -21,13 +21,3 @@ jobs:
       - uses: Sayad-Uddin-Tahsin/GHBall@main
         with:
           username: ${{ github.repository_owner }}
-
-      # Push contents to the "GHBall" branch
-      - name: Push to GHBall branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: GHBall
-          build_dir: output
-          commit_message: "Update GHBall animations"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
