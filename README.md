@@ -2,11 +2,6 @@
 
 I'm Sayad Uddin Tahsin, a passionate software developer and tech enthusiast. I specialize in Python and love building various software applications.
 
-## My Streak
-![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Sayad-Uddin-Tahsin&theme=aura&border=A192EB5F)
-
-![Language Graph](https://github-readme-stats.vercel.app/api/top-langs?username=Sayad-Uddin-Tahsin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true)
-
 ## Skilled at
 
 <a href="#skilled-at" align="center">
@@ -21,9 +16,5 @@ I'm Sayad Uddin Tahsin, a passionate software developer and tech enthusiast. I s
 <a href="mailto:tahsin.ict@outlook.com" title="tahsin.ict@outlook.com"><img src="https://img.shields.io/badge/Contact-Email-Green?style=for-the-badge" height="35" alt="Contact: Email"  /></a>
 
 <div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/assets/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/assets/snake-light.svg" />
-  <img alt="github-snake" src="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/assets/snake-light.svg" height=60% />
-</picture>
+  <img alt="github-snake" src="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/GHBall/ghball.svg" height=60% />
 </div>
