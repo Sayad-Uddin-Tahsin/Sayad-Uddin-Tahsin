@@ -16,5 +16,5 @@ I'm Sayad Uddin Tahsin, a passionate software developer and tech enthusiast. I s
 <a href="mailto:tahsin.ict@outlook.com" title="tahsin.ict@outlook.com"><img src="https://img.shields.io/badge/Contact-Email-Green?style=for-the-badge" height="35" alt="Contact: Email"  /></a>
 
 <div align="center">
-  <img alt="github-snake" src="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/GHBall/ghball.svg" height=60% />
+  <img alt="ghball" src="https://github.com/Sayad-Uddin-Tahsin/Sayad-Uddin-Tahsin/blob/GHBall/ghball.svg" height=60% />
 </div>
